@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Transformer_THT")(type "KiCad")(uri "${KIPRJMOD}/Transformer_THT.kicad_sym")(options "")(descr ""))
+  (lib (name "Transformer_ADM")(type "KiCad")(uri "${KIPRJMOD}/Transformer_ADM.kicad_sym")(options "")(descr ""))
+)
